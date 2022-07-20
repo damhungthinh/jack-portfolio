@@ -1,0 +1,42 @@
+const moreBtn = document.querySelector('.btn-more')
+const moreCourses = document.querySelector('.more')
+
+moreBtn.addEventListener('click', () => {
+  toggleMoreCourses()
+})
+
+function toggleMoreCourses() {
+  if (!moreCourses.classList.contains('show')) {
+    moreCourses.classList.add('show')
+    moreBtn.innerHTML = 'Hide courses'
+  } else {
+    moreCourses.classList.remove('show')
+    moreBtn.innerHTML = 'Show more courses'
+  }
+}
+
+// Dynamic promo code
+function getPromo() {
+  const monthNames = [
+    'JAN',
+    'FEB',
+    'MARCH',
+    'APR',
+    'MAY',
+    'JUNE',
+    'JULY',
+    'AUG',
+    'SEP',
+    'OCT',
+    'NOV',
+    'DEC',
+  ]
+  const d = new Date()
+  const code = monthNames[d.getMonth()] + d.getFullYear()
+
+  document.querySelectorAll('.promo-display').forEach((promo) => {
+    promo.innerHTML = code
+  })
+}
+
+getPromo()
