@@ -104,8 +104,15 @@ input:focus {
 }
 
 .navbar .container {
+  height: 70px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .container .logo-wording {
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
 
