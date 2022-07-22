@@ -18,7 +18,7 @@
   </head>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
   <script>
-    $.getJSON("data.json", function(data) {
+    $.getJSON("https://raw.githubusercontent.com/damhungthinh/jack-portfolio/main/data.json", function(data) {
       $('.logo-wording').html(data.logoWording)
       $('.youtubeChannel').attr("href", data.youtubeChannel)
       $('.linkedin').attr("href", data.linkedin)
