@@ -16,19 +16,19 @@
   "latestCourses": [
     {
       "describe": "The Complete Convolutional Neural Network with Python 2022",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/la-hoang-quy-complete-convolutional-neural-network-with-python-2022/?referralCode=C824D89A1895A1A7362C",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "The Complete Recurrent Neural Network with Python Course.",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-recurrent-neural-network-with-python-course/?referralCode=8EA978FDCB219E04ACDE",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "15+ Practice Questions with Solutions on C++ course [2022].",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/15-practice-questions-with-solutions-on-c-course-2022/?referralCode=1F4865610627643D57AD",
       "pathDetail": "View On Udemy"
     }
@@ -36,19 +36,19 @@
   "popularCourses": [
     {
       "describe": "The Complete Data Visualization with Python [2022]",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-data-visualization-with-python-2022/?referralCode=87831DAEE7026BD7801D",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "The Complete Data Analysis Course 2022 with Python.",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-data-analysis-course-2022-with-python/?referralCode=326692B8E54D9D537469",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "Generative Adversarial Network (GAN): The Complete Guide",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/generative-adversarial-networks-gan-the-complete-guide/?referralCode=DB555934EC1545BC3548",
       "pathDetail": "View On Udemy"
     }
@@ -56,31 +56,31 @@
   "moreCourses": [
     {
       "describe": "PyTorch: The Complete Guide 2022",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/pytorch-the-complete-guide-2022/?referralCode=7469AFFA931EF5AEF46C",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "The Complete Exploratory Analysis Course With Pandas [2022]",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-exploratory-analysis-course-with-pandas-2021/?referralCode=08D41AE9C060F708AF6E",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "The Complete Artificial Intelligence for Cyber Security 2022",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-artificial-intelligence-for-cyber-security-2021/?referralCode=DA68A9D0589D40A6975F",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "Autonomous Cars: The Complete Computer Vision Course 2022",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/autonomous-cars-the-complete-computer-vision-course-2021/?referralCode=2B2BFD5796EB7E125A6D",
       "pathDetail": "View On Udemy"
     },
     {
       "describe": "The Complete Healthcare Artificial Intelligence Course 2022",
-      "pathImg": "./Porfolio_files/udemy-logo.png",
+      "pathImg": "./images/udemy-logo.png",
       "path": "https://www.udemy.com/course/the-complete-healthcare-artificial-intelligence-course-2021/?referralCode=E54EDE82DED42883687E",
       "pathDetail": "View On Udemy"
     }
