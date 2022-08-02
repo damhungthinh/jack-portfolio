@@ -92,6 +92,11 @@
   },
   "projects": [
     {
+      "srcImg": "fab fa-linkedin fa-5x",
+      "path": "https://www.linkedin.com/in/hoang-quy-la-jack-la-6848a5163/",
+      "detail": "More on linkedin"
+    },
+    {
       "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
       "path": "https://itcodefairjudge.spinetail.cdu.edu.au/",
       "detail": "View project 1"
@@ -102,9 +107,59 @@
       "detail": "View project 2"
     },
     {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://vast-beach-16153.herokuapp.com/",
+      "detail": "View project 3"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://immense-taiga-05312.herokuapp.com/",
+      "detail": "View project 4"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://simmer.io/@Hoang_Quy_La/games",
+      "detail": "View project 5"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://simmer.io/@Hoang_Quy_La/project-boost-from-game-dev-tv",
+      "detail": "View project 6"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://superb-cheesecake-f18b5a.netlify.app/",
+      "detail": "View project 7"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://awesome-shirley-3675ec.netlify.app/",
+      "detail": "View project 8"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://kind-lewin-9d4069.netlify.app/",
+      "detail": "View project 9"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://quirky-benz-f2d3b5.netlify.app/",
+      "detail": "View project 10"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://email-client-app-completed.vercel.app/",
+      "detail": "View project 11"
+    },
+    {
+      "srcImg": "https://itcodefairjudge.spinetail.cdu.edu.au/images/cdu-logo.png",
+      "path": "https://creditcard-completed.vercel.app/",
+      "detail": "View project 12"
+    },
+    {
       "srcImg": "fab fa-linkedin fa-5x",
-      "path": "https://www.linkedin.com/in/hoang-quy-la-jack-la-6848a5163/",
-      "detail": "More on linkedin"
+      "path": "https://infinite-inlet-24544.herokuapp.com/",
+      "detail": "View project 13"
     }
   ]
 }
